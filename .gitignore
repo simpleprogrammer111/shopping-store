@@ -1,0 +1,14 @@
+# Python virtual environments
+env/
+.venv/
+
+# Compiled Python
+__pycache__/
+*.py[cod]
+
+# Logs and misc
+*.log
+
+# VSCode and PyCharm
+.vscode/
+.idea/
